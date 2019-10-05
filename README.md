@@ -41,6 +41,7 @@ https://gist.github.com/MarcDiethelm/7303312
 4. Push your local commit to your remote fork.
     - `git push origin master`
 5. Go to your forked repository on the GitHub website.
-6. Click the green "Create Pull Request" button.
-7. Describe your changes, and submit it.
-8. You're done!
+6. Click the "Pull Request" button to the right of where you see "This branch is 1 commit ahead of fcculsan:master." 
+7. Click the green "Create Pull Request" button.
+8. Describe your changes, and submit it.
+9. You're done!
