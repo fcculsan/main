@@ -54,3 +54,5 @@ Ulsan, South Korea freeCodeCamp group.
 Learn to code at https://freecodecamp.org
 
 No experience necessary. The FreeCodeCamp program can take you from total beginner to developer. It's worked for thousands of people worldwide, including the group founder. If you ever have any questions, please ask away in the group so everyone can learn from it.
+
+<!-- THis is a comment at the bottom of the description-->
