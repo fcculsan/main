@@ -1,6 +1,6 @@
 # Title
 
-Hacktoberfest in Ulsan
+Hacktoberfest in Ulsan - Open Source & Free T-Shirts
 
 # Description
 
@@ -51,6 +51,8 @@ Hacktoberfest events are welcoming, open, and inclusive. Please read the Hacktob
 # Date
 
 October 29th, 2019
+
+Posted on Facebook and submitted to the Hacktoberfest website on October 9th, 2019.
 
 # Time
 
