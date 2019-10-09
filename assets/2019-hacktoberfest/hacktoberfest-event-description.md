@@ -52,6 +52,8 @@ Hacktoberfest events are welcoming, open, and inclusive. Please read the Hacktob
 
 October 29th, 2019
 
+Posted on Facebook and submitted to the Hacktoberfest website on October 9th, 2019.
+
 # Time
 
 2 - 5 PM
