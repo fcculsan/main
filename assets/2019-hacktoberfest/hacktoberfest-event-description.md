@@ -1,6 +1,6 @@
 # Title
 
-Hacktoberfest in Ulsan
+Hacktoberfest in Ulsan - Open Source & Free T-Shirts
 
 # Description
 
